@@ -1,3 +1,4 @@
+Par nombre de jour
 
 A) If I'm sweeping:
        premier jour: Jaune clignotant
@@ -10,6 +11,8 @@ B) If I'm setting the table:
 C) If I'm doing the dishes:
        premier jour: Jaune + Rouge clignotant
        dexieme jour: Jaune + Rouge Solid
+
+Par Jour de la semaine
 
 D) If I'm vaccuming this week (on friday + saturday + Sunday):
        Vendredi: Vert clignotant lentement
