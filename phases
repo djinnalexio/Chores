@@ -1,0 +1,29 @@
+
+A) If I'm sweeping:
+       premier jour: Jaune clignotant
+       dexieme jour: Jaune Solid
+       
+B) If I'm setting the table:
+       premier jour: Rouge clignotant
+       dexieme jour: Rouge Solid
+       
+C) If I'm doing the dishes:
+       premier jour: Jaune + Rouge clignotant
+       dexieme jour: Jaune + Rouge Solid
+
+D) If I'm vaccuming this week (on friday + saturday + Sunday):
+       Vendredi: Vert clignotant lentement
+       Samedi: Vert clignotant rapidement
+       Dimanche: Vert solid
+       
+E) If I'm cleaning the bathroom (Wednesday + Thursday):
+        mercredi: bleu clignotant
+        jeudi: bleu solid
+        
+F) If the trash needs to be taken out (sunday-monday, wednesday-thurssday):
+        day before: blanc gauche solid
+        day coming: blanc gauche solid
+
+G) If the recyclables needs to be taken out (monday-tuesday):
+        day before: blanc droit solid
+        day coming: blanc droit solid
